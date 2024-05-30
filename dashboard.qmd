@@ -8,7 +8,10 @@ format:
 
 ## Column {width="35%"}
 
-Placeholder text for column 1
+```{r}
+paste0("My Password is:", Sys.getenv("MY_PASSWORD"))
+```
+
 
 ```{r, loadpackages}
 #| echo: false
@@ -30,8 +33,6 @@ head(starwars)
 Placeholder text for column 2, row 1
 
 ### Row {height="70%"}
-
-Placeholder text for column 2, row 2
 
 ### Row {height="20%"}
 

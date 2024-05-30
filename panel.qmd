@@ -1,0 +1,6 @@
+---
+title: "panel"
+---
+
+
+<iframe width=1600, height=500 frameBorder=0 src="images/test.html"></iframe>
