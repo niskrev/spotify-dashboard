@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://niskrev.github.io/spotify-dashboard/dashboard.html</loc>
-    <lastmod>2024-10-08T13:05:17.958Z</lastmod>
+    <loc>https://niskrev.github.io/spotify-dashboard/index.html</loc>
+    <lastmod>2024-10-09T13:05:35.427Z</lastmod>
   </url>
   <url>
     <loc>https://niskrev.github.io/spotify-dashboard/about.html</loc>
-    <lastmod>2024-10-08T13:05:17.958Z</lastmod>
-  </url>
-  <url>
-    <loc>https://niskrev.github.io/spotify-dashboard/index.html</loc>
-    <lastmod>2024-10-08T13:05:17.978Z</lastmod>
+    <lastmod>2024-10-09T13:05:35.407Z</lastmod>
   </url>
   <url>
     <loc>https://niskrev.github.io/spotify-dashboard/panel.html</loc>
-    <lastmod>2024-10-08T13:05:17.978Z</lastmod>
+    <lastmod>2024-10-09T13:05:35.427Z</lastmod>
+  </url>
+  <url>
+    <loc>https://niskrev.github.io/spotify-dashboard/dashboard.html</loc>
+    <lastmod>2024-10-09T13:05:35.407Z</lastmod>
   </url>
 </urlset>
